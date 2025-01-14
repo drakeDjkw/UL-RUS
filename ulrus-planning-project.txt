@@ -1,6 +1,8 @@
 Planning project ULRUS
 
 - Javascript
-*Frameworks
+^Angular
+^React
 - PHP Frameworks
+^Laravel
 *Codeigneter 4
