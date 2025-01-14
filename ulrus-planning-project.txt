@@ -3,6 +3,7 @@ Planning project ULRUS
 - Javascript
 *Frameworks
 ^Vue
+^React
 - PHP Frameworks
 ^Laravel
 *Codeigneter 4
